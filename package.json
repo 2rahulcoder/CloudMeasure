@@ -1,0 +1,17 @@
+{
+  "name": "expressweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "script": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "rahul yadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.16"
+  }
+}
